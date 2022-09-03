@@ -1,3 +1,4 @@
 ---
 - name: working with yaml
   hosts: all
+  tasks:
