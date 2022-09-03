@@ -2,3 +2,4 @@
 - name: working with yaml
   hosts: all
   tasks:
+    - name: working with azboards
